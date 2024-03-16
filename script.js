@@ -4,7 +4,7 @@ let unlockClicked = false;
 
 document.getElementById('unlockBtn').addEventListener('click', function() {
     // Open a new tab with the provided URL
-    window.open('https://credentialstrapdoormagnet.com/sa6b1zda?key=0815c5716a238cfe9170ea906ec737ce', '_blank');
+    window.open('https://www.profitablegatecpm.com/js8t6cnsc8?key=645e75a61d15dbca8b48bea09e5e3105', '_blank');
 
     // Reset countdown timer and start it again
     clearInterval(countdownTimer);
@@ -20,7 +20,7 @@ document.getElementById('generateBtn').addEventListener('click', function() {
     // Perform actions when Generate Image button is clicked
     // Here, you can add logic to generate image or any other action
     // For now, let's just open a new tab with a dummy URL
-    window.open('https://credentialstrapdoormagnet.com/vn6avsgz?key=e5e64baa172582da5ecbfdbb434df6c5', '_blank');
+    window.open('https://www.profitablegatecpm.com/areet3a9mz?key=f6de42831288e140c478588af093e1cd', '_blank');
 });
 
 function updateCountdown() {
@@ -46,7 +46,7 @@ function updateCountdown() {
 
 document.getElementById('unlockBtn').addEventListener('click', function() {
     // Open a new tab with the provided URL
-    window.open('https://credentialstrapdoormagnet.com/h5ghcr5qdg?key=daa4ef1f46e4ba1059be2c17b85b0ae8', '_blank');
+    window.open('https://www.profitablegatecpm.com/js8t6cnsc8?key=645e75a61d15dbca8b48bea09e5e3105', '_blank');
 
     // Reset countdown timer and start it again
     clearInterval(countdownTimer);
@@ -65,7 +65,7 @@ document.getElementById('generateBtn').addEventListener('click', function() {
     // Perform actions when Generate Image button is clicked
     // Here, you can add logic to generate image or any other action
     // For now, let's just open a new tab with a dummy URL
-    window.open('https://credentialstrapdoormagnet.com/v21pxv7tf?key=73d273a5458befd1561488542a3771bd', '_blank');
+    window.open('https://www.profitablegatecpm.com/areet3a9mz?key=f6de42831288e140c478588af093e1cd', '_blank');
 
     // Hide the iframe
     document.getElementById('resultFrame').style.display = 'none';
